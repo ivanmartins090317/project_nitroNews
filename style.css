@@ -1,0 +1,25 @@
+#cadastroForm{
+  width:60%;
+  margin:10% auto;
+  display:flex;
+  flex-direction:column;
+  font-family:sans-serif;
+}
+
+#cadastroForm input{
+  border:none;
+  border: 1px solid #232323;
+  padding:1.5% 5%;
+  margin-bottom:3%;
+  border-radius:999px;
+}
+
+#cadastroForm button{
+  width:30%;
+  border:none;
+  background:#333333;
+  color:#FAFAFA;
+  padding:3% 5%;
+  border-radius:999px;
+  margin:0 auto;
+}

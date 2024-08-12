@@ -1,0 +1,17 @@
+{
+  "name": "cadastro-form-vite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.3",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^9.1.3",
+    "vite": "^5.4.0"
+  }
+}
