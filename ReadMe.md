@@ -65,9 +65,12 @@ npm run dev
 Envio e validação de formulario
 
 
-## Melhorias
+## Melhorias 
 
-• Criar um layout no Figma
 • Rafatorar o codigo
 • Criar uma estrutura de teste
 
+
+## Projeto no Figma
+
+https://www.figma.com/design/X9blJpOqdKwtercC5LlRHR/NItroNews?node-id=0-1&t=JIikGVuI6VPiFOra-0
