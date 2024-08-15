@@ -1,0 +1,31 @@
+.form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form div {
+  margin-bottom: 1rem;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.form input {
+  width: 100%;
+  padding: 0.5rem;
+}
+
+.form button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.erro {
+  color: red;
+  font-size: 0.8rem;
+}
